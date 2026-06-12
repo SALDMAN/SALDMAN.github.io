@@ -7,7 +7,7 @@ author_profile: true
 
 If you want to reach out for private tutoring, academic collaboration, or have any questions, feel free to fill out the form below or email me directly at [yairsaldma@gmail.com](mailto:yairsaldma@gmail.com).
 
-<form action="https://formspree.io/f/yairsaldma@gmail.com" method="POST">
+<form action="https://formspree.io/f/mlgkpqeg" method="POST">
   <p>
     <label>Name / שם:<br>
     <input type="text" name="name" required style="width: 100%; max-width: 400px; padding: 5px; color: black;"></label>
