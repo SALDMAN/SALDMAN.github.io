@@ -33,3 +33,9 @@ Going beyond the standard curriculum to master complex algorithmic paradigms, da
 
 ### 4. Effective Time Management Platform
 Designing and developing a dedicated web application focused on effective time management, productivity tracking, and workflow optimization for high-load schedules.
+
+---
+
+# Contact
+
+ליצירת קשר תשלחו לי מייל בכתובת: [yairsaldma@gmail.com](mailto:yairsaldma@gmail.com)
