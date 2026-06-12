@@ -4,5 +4,5 @@ main:
     url: /portfolio/
   - title: "דברים לכיף"
     url: /talks/
-  - title: "צור קשר ללימודים אישיים"
-    url: /#contact
+- title: "צור קשר ללימודים אישיים"
+    url: /contact/
