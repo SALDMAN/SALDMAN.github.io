@@ -1,32 +1,46 @@
 ---
 layout: about
-title: "אודות"
+title: "About"
 permalink: /
 author_profile: true
 ---
 
-<div dir="rtl" style="text-align: right;">
+# About Me
 
-# שלום, אני יאיר ישראל סאלדמן
-
-אני בן 19, סטודנט לתואר ראשון במדעי המחשב באוניברסיטת אריאל. סיימתי תיכון עם ממוצע **110** וסה"כ **35 יחידות לימוד**. אני יוצר ומעלה פרויקטים לכיף, והתחומים שמעניינים אותי במיוחד הם מתמטיקה דיסקרטית, אלגברה לינארית, קריפטוגרפיה ואלגוריתמים.
+I am a 19-year-old B.Sc. Computer Science student at Ariel University. I graduated high school with an exceptional **110 average (35 matriculation units)**, driven by a deep passion for theoretical computer science and mathematics.
 
 ---
 
-## מה אני עושה עכשיו? (פרויקטים)
+## Fields of Interest
+My primary academic and research focus areas include:
+* **Discrete Mathematics & Graph Theory**
+* **Linear Algebra**
+* **Cryptography & Information Security**
+* **Advanced Algorithms**
 
-1. **סיכום מאמר Secret Sharing Schemes:** עובד על סיכום מעמיק של המאמר מאוניברסיטת בן גוריון, בדגש על התשתית המתמטית.
-2. **לימוד עצמי של קריפטו:** חוקר עצמאית עקרונות הצפנה מודרנית ותורת המספרים.
-3. **אלגוריתמים מתקדמים:** לומד לעומק אלגוריתמים מורכבים מעבר לחומר הלימוד הרגיל.
-4. **תכנון זמן אפקטיבי:** בונה אתר ייעודי לניהול ותכנון זמן בצורה חכמה.
+---
+
+## Current Projects
+
+Here is what I am currently working on and exploring:
+
+### 1. Paper Summary: Secret Sharing Schemes (BGU)
+I am writing a comprehensive, mathematically rigorous summary of the *Secret Sharing Schemes* academic paper from Ben-Gurion University, focusing on threshold schemes and their algebraic foundations.
+
+### 2. Self-Studying Cryptography
+Deep diving independently into modern cryptography, exploring cryptographic primitives, zero-knowledge proofs, and underlying number theory.
+
+### 3. Advanced Algorithms
+Going beyond the standard curriculum to master complex algorithmic paradigms, data structures, and graph optimization techniques.
+
+### 4. Effective Time Management Platform
+Designing and developing a dedicated web application focused on effective time management, productivity tracking, and workflow optimization for high-load schedules.
 
 ---
 
 <a name="contact"></a>
-## צור קשר ללימודים אישיים
-מעוניינים בלימודים אישיים או שיתוף פעולה? מוזמנים לשלוח לי מייל:
+## Contact for Private Tutoring & Collaboration
+If you are interested in private tutoring, academic collaborations, or have any questions, feel free to reach out via email:
 [yairsaldma@gmail.com](mailto:yairsaldma@gmail.com)
 
-ניתן למצוא את הפרויקטים שלי גם בגיטהאב: [github.com/SALDMAN](https://github.com/SALDMAN)
-
-</div>
+You can also explore my code repositories on GitHub: [github.com/SALDMAN](https://github.com/SALDMAN)
